@@ -1,4 +1,6 @@
 **AI-based cyber threat detection system**
+--
+
 This project is an AI-based cyber threat detection system.
 First, the AI learns how a system normally behaves, such as normal CPU usage or network activity.
 This normal behavior is referred to as the baseline.
